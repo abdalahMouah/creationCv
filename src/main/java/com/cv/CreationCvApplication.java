@@ -22,6 +22,7 @@ public class CreationCvApplication implements CommandLineRunner{
 		
 		creationCV.save(new Personne(null,"coulibaly","Mouhamed"));
 		creationCV.save(new Personne(null,"konan","abdalah"));
+		
 	}
 
 }
